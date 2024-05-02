@@ -1,0 +1,28 @@
+*{
+    padding: ;
+    margin: ;
+    background-color: grey;
+    h1{
+        text-align: center;
+    }
+    .navbar ul{
+        list-style-type: none;
+        background-color:burlywood;
+        padding: 0%;
+        margin:0%;
+        overflow: hidden;
+    }
+    .navbar a{
+        text-decoration: none;
+        color: white;
+        padding: 15px;
+        display: flex;
+    }
+    .navbar a:hover{
+        background-color: black;
+        
+    }
+    .navbar li{
+        float: left;
+    }
+    }
