@@ -1,8 +1,11 @@
 *{
-    padding: ;
-    margin: ;
-    background-color: grey;
+    padding:0 ;
+    margin:0 ;
+    background-color: burlywood;
     h1{
+        text-align: center;
+    }
+    h2{
         text-align: center;
     }
     .navbar ul{
@@ -25,4 +28,23 @@
     .navbar li{
         float: left;
     }
+    h2 {
+        box-sizing: border-box;
+    }
+    .column {
+        float:left ;
+        width: 600px; ; height:auto; 
+        padding: 5px; 
+        margin: 10px;
+    }
+    h3 {
+        box-sizing: border-box ;
+    }
+    .column {
+        float:left ;
+        width: 600px; ; height:auto; 
+        padding: 5px; 
+        margin: 10px;
+    }
+    
     }
